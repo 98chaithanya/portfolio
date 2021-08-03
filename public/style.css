@@ -9,3 +9,32 @@ input[type=button]{
 .topnav-right {
     float: right;
 }
+.maintxt {
+    background-image: url("./images/83-838362_web-developer.jpg");
+    background-size: cover;
+}
+.img-fluid{
+    background-image:url("./images/83-838362_web-developer.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color:chocolate;
+}
+.navbar:hover{
+    background-attachment: fixed;
+}
+#About{
+
+    background-color:blanchedalmond;
+}
+#Skills{
+    background-color: blanchedalmond;
+}  
+.about{
+    max-width: 100%;
+    border: 2px solid black;
+}  
